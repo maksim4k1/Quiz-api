@@ -19,6 +19,81 @@ module.exports = {
         "username": "admin",
         "password": "1234"
       }
+    },
+    {
+      "auth": {
+        "username": "Maks",
+        "password": "1234"
+      },
+      "data": {
+        "username": "Maks",
+        "name": "Баженов Максим",
+        "score": 9,
+        "description": "",
+        "image": "",
+        "myQuizzes": []
+      },
+      "token": "token_zrsxQc7TS"
+    },
+    {
+      "auth": {
+        "username": "maks",
+        "password": "1234"
+      },
+      "data": {
+        "username": "maks",
+        "name": "Maksim",
+        "score": 8,
+        "description": "",
+        "image": "",
+        "myQuizzes": []
+      },
+      "token": "token_ZY7h9qlV_"
+    },
+    {
+      "auth": {
+        "username": "maksim4k1",
+        "password": "1234"
+      },
+      "data": {
+        "username": "maksim4k1",
+        "name": "Maks",
+        "description": "Front-End разработчик",
+        "score": 7,
+        "image": "",
+        "myQuizzes": []
+      },
+      "token": "token_AF2eColk4"
+    },
+    {
+      "auth": {
+        "username": "maksim",
+        "password": "1234"
+      },
+      "data": {
+        "username": "maksim",
+        "name": "Баженов Максим",
+        "score": 5,
+        "description": "",
+        "image": "",
+        "myQuizzes": []
+      },
+      "token": "token_41GzTo8Zv"
+    },
+    {
+      "auth": {
+        "username": "_a2l4_",
+        "password": "1234"
+      },
+      "data": {
+        "username": "_a2l4_",
+        "name": "Александррр",
+        "score": 2,
+        "description": "",
+        "image": "",
+        "myQuizzes": []
+      },
+      "token": "token_XJ_J5ilK9"
     }
   ],
   "categories": [
