@@ -23,7 +23,6 @@ const getQuiz = (req, res) => {
   
   const quiz = db.get('quiz').find(foundQuiz => foundQuiz.id === id).value()
 
-  console.log(quiz)
   if(!quiz) return error(res, 400, 'Access is denied')
 
   res.send(quiz)
