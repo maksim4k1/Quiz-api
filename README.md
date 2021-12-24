@@ -9,3 +9,9 @@ npm install
 npm start
 ```
 Сервер будет запущен на порту 1717 (http://localhost:1717)
+
+#### Данные для авторизации
+```
+username: admin
+password: 1234
+```
